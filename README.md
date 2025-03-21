@@ -41,19 +41,9 @@ In contrast, Ethiopia represents a low-income country, with GDP per capita consi
 
 Looking at the evolution from 1990 to 2017, we see that while GDP per capita increases significantly in all three countries (at different rates), depression prevalence remains relatively stable or increases slightly. This suggests that economic growth does not necessarily lead to better mental health outcomes.
 
-![Repo Logo](./images/logo.png)
+![Repo Logo](./graphs.png)
 
 ### Related work
 
-> - What others have already done with the data?
-> - Why is your approach original?
-> - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
-> - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
-
-
-
-## Late policy
-
-- < 24h: 80% of the grade for the milestone
-- < 48h: 70% of the grade for the milestone
+Many have studied this data to showcase the evolution of mental health as well as gdp throughout the years. Also, studies about the relevance of money in the well being is quite large. Our project, differs for what have been done in the way that it actually answers multiple questions on this subject with a series of facts that are explained with multiple plotted graphs. Our work is inspired from Gapminder which is an independent educational non-proﬁt ﬁghting global misconceptions. That through questionnaires and graphs showcases results on different misconceived topics in a playful way. 
 
