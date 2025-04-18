@@ -48,4 +48,4 @@ Looking at the evolution from 1990 to 2017, we see that while GDP per capita inc
 Many have studied this data to showcase the evolution of mental health as well as gdp throughout the years. Also, studies about the relevance of money in the well being is quite large. Our project, differs for what have been done in the way that it actually answers multiple questions on this subject with a series of facts that are explained with multiple plotted graphs. Our work is inspired from Gapminder which is an independent educational non-proﬁt ﬁghting global misconceptions. That through questionnaires and graphs showcases results on different misconceived topics in a playful way. 
 
 ## Milestone 2
-Go to the zip document 
+Go to the zip document milstone2.zip.To lunch the site, open site.html on your browser. 
