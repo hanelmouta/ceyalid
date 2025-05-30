@@ -50,7 +50,7 @@ Many have studied this data to showcase the evolution of mental health as well a
 ## Milestone 2
 Go to the zip document milstone2.zip.To lunch the site, open site.html on your browser. 
 ## Milestone 3
-
+Go to the zip document milstone3.zip 
 run python3 -m http.server 8000
 
 
